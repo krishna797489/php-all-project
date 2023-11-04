@@ -1,0 +1,265 @@
+/* 
+->What is CSS?
+CSS stands for Cascading Style Sheets
+CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+CSS saves a lot of work. It can control the layout of multiple web pages all at once
+External stylesheets are stored in CSS files
+
+->What is the Box model in CSS?
+A rectangle box is wrapped around every HTML element. The box model is used to determine
+the height and width of the rectangular box.The CSS Box consists of Width, height, padding, borders and margin.
+
+->Name some CSS frameworks?
+Some of them are:
+Foundation
+Bootstrap
+Gumby
+Ukit
+Semantic UI
+
+->What is Embedded Style Sheet?
+An Embedded style sheet is a CSS style specification method used with HTML. You can embed the entire stylesheet in 
+an HTML document by using the STYLE element.
+body {    
+    background-color: linen;    
+}    
+h1 {    
+    color: red;    
+    margin-left: 80px;    
+} 
+
+->How to include CSS in the webpage?
+<link rel="stylesheet" type="text/css" href="mystyles.css" />
+<style type="text/css">
+Add style rules here
+</style>
+
+->What is the difference between inline, inline-block, and block?
+Block Element - The block elements always start on a new line. They will also take space for an entire row or width. List of block elements are <div>, <p>.
+Inline Elements - Inline elements don't start on a new line, they appear on the same line as the content and tags beside them. Ex: <a>, <span> , <strong>, and <img> tags. 
+Inline Block Elements - Inline-block elements are similar to inline elements, except they can have padding and margins and set height and width values.
+
+->What is the difference between a class and an ID?
+Class is a way of using HTML elements for styling. They are not unique and have multiple elements.
+ID is unique and it can be assigned to a single element.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
